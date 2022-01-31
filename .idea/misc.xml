@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/QuizApp/app/src/main/res/drawable/correct_option_border_bg.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.24230072463768115" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/QuizApp/app/src/main/res/layout/activity_quiz_questions.xml" value="0.24230072463768115" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/QuizApp/app/src/main/res/layout/activity_result.xml" value="0.24230072463768115" />
+        <entry key="..\:/project/QuizApp/app/src/main/res/drawable/correct_option_border_bg.xml" value="0.2703125" />
+        <entry key="..\:/project/QuizApp/app/src/main/res/drawable/default_option_border_bg.xml" value="0.2703125" />
+        <entry key="..\:/project/QuizApp/app/src/main/res/drawable/selected_option_border_bg.xml" value="0.2703125" />
+        <entry key="..\:/project/QuizApp/app/src/main/res/drawable/wrong_option_border_bg.xml" value="0.2638888888888889" />
+        <entry key="..\:/project/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/project/QuizApp/app/src/main/res/layout/activity_quiz_questions.xml" value="0.25" />
+        <entry key="..\:/project/QuizApp/app/src/main/res/layout/activity_result.xml" value="0.25416666666666665" />
+        <entry key="..\:/project/QuizApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2638888888888889" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
